@@ -28,16 +28,16 @@ Through those experiences, I started thinking more about the odds and financial 
 
 Card breaks can involve different types of sealed products. Each level of product affects how cards are distributed and what odds participants might expect.
 
-**Full Cases**
+**Full Cases** 
 A sealed case containing multiple boxes (often around 8–12 depending on the product). Many products include “case hits,” which are rare cards expected to appear about once per case on average. Because of this, breaks that open a full case have the best chance of producing these rare pulls.
 
-**Full Boxes**
+**Full Boxes** 
 A sealed hobby box opened as part of a break. Boxes typically contain a fixed number of packs and often guarantee certain types of cards, such as autographs or relic cards. However, boxes do not always guarantee case-level hits.
 
-**Loose Boxes**
+**Loose Boxes** 
 Entire hobby boxes opened outside of their original case. Since some rare cards are distributed at the case level, opening loose boxes may result in none of the case hits appearing, even if multiple boxes are opened.
 
-**Loose Packs**
+**Loose Packs** 
 Individual packs opened outside of a box or case. Because they are removed from the larger product structure, pack-level pulls may not reflect the odds expected when opening a full box or case.
 
 ---
@@ -46,13 +46,13 @@ Individual packs opened outside of a box or case. Because they are removed from 
 
 This simulator aims to model several common formats used in real sports card breaks:
 
-**Random Teams**
+**Random Teams** 
 Participants purchase a spot in the break and teams are assigned randomly before packs are opened. This format is common when the price of certain teams would otherwise be significantly higher than others.
 
-**Pick Your Team (PYT)**
+**Pick Your Team (PYT)** 
 Participants choose and purchase a specific team before the break begins. Any cards pulled from packs that correspond to that team are assigned to the participant who selected it.
 
-**Pick Your Player (PYP)**
+**Pick Your Player (PYP)** 
 In some breaks, participants purchase the rights to specific players instead of teams. Any cards pulled featuring that player belong to the participant who selected them.
 
 ---
