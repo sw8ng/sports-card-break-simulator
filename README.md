@@ -26,7 +26,7 @@ Through those experiences, I started thinking more about the odds and financial 
 
 ## Product Types
 
-Card breaks can involve different types of sealed products. Each level of product affects how cards are distributed and what odds participants might expect.
+Card breaks can involve different types of sealed products. Each level of product affects how cards are distributed and what odds participants might expect:
 
 **Full Cases** <br/>
 A sealed case containing multiple boxes (often around 8–12 depending on the product). Many products include “case hits,” which are rare cards expected to appear about once per case on average. Because of this, breaks that open a full case have the best chance of producing these rare pulls.
@@ -39,6 +39,8 @@ Entire hobby boxes opened outside of their original case. Since some rare cards 
 
 **Loose Packs** <br/>
 Individual packs opened outside of a box or case. Because they are removed from the larger product structure, pack-level pulls may not reflect the odds expected when opening a full box or case.
+
+The simulation will eventually support different types of boxes: Hobby Boxes, Choice, Fastbreak/H2, and retail products such as Mega Boxes, Blasters/Value Boxes.
 
 ---
 
@@ -59,7 +61,7 @@ In some breaks, participants purchase the rights to specific players instead of 
 
 ## Card Types and Rarity
 
-Sports card products contain different types of cards that vary in rarity and desirability. 
+Sports card products contain different types of cards that vary in rarity and desirability:
 
 **Card Categories**
 
@@ -73,7 +75,7 @@ Insert cards are special subsets that appear less frequently than base cards and
 Autograph cards contain a player's signature and are typically considered premium pulls.
 
 **- Relics** <br/>
-Relic cards contain pieces of player-worn or game-used memorabilia such as jersey patches. Some cards combine both relics and autographs.
+Relic cards contain pieces of player-worn or game-used memorabilia such as jersey patches. 
 
 **Designations**
 
